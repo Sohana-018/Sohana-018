@@ -58,17 +58,18 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/Sohana-018/Fake-Internship-Detector">Job Authenticity Verifier</a></h4>
-      <p><em>ML Security Classifier & Risk Scoring Web App</em></p>
+      <h4>🛡️ <a href="https://github.com/Sohana-018/Fake-Internship-Detector">JobScamShield</a></h4>
+      <p><em>AI Threat Intelligence & Fake Job Detection Platform</em></p>
       <ul>
-        <li>Flask & React web app scoring postings with TF-IDF + 14 handcrafted fraud signals.</li>
-        <li><strong>97.5% accuracy</strong>, <strong>92% recall</strong> on 3,776 holdout split; audited for train/test leakage.</li>
+        <li>Dual-engine architecture: Instant 14-point ML check (<10ms) & autonomous <strong>Gemini AI Agent (<code>gemini-3.5-flash</code>)</strong> with function calling for deep forensic analysis.</li>
+        <li>Leakage-free ML pipeline achieving <strong>98.35% holdout accuracy</strong>, <strong>99.14% precision</strong>, and only 1 false alarm across 3,403 genuine test postings.</li>
       </ul>
       <p>
-        <code>Python</code> • <code>Flask</code> • <code>React</code> • <code>scikit-learn</code> • <code>SQLite</code>
+        <code>Python</code> • <code>Flask</code> • <code>React</code> • <code>Gemini API</code> • <code>scikit-learn</code> • <code>Render</code>
       </p>
       <p>
-        <a href="https://github.com/Sohana-018/Fake-Internship-Detector">📂 Repository</a>
+        <a href="https://github.com/Sohana-018/Fake-Internship-Detector">📂 Repository</a> &nbsp;|&nbsp; 
+        <a href="https://jobscam-shield.onrender.com">🌐 Live Demo</a>
       </p>
     </td>
   </tr>
@@ -150,6 +151,7 @@
 | **LeetCode** | <a href="https://leetcode.com/u/Sohana_817/"><code>@Sohana_817</code></a> • **1691 Contest Rating (Top 17% Globally)** • **400+ Problems Solved** |
 | **Contests** | **2nd Place / 60+ Teams** in *Sequence Saga* • **Finalist** in *Hackober* (GDGoC) |
 | **Oracle** | Agentic AI Certified Foundations Associate |
+| **Kaggle** | Intermediate Machine Learning |
 | **HackerRank** | Problem Solving (Basic) • Python (Basic) • SQL (Intermediate) |
 | **NPTEL** | Data Science for Engineers |
 
